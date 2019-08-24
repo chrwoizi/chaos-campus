@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Javy.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TilesetsUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://www.informatik-braunschweig.de/Leveleditor/?action=get_xml</Value>
+    </Setting>
+    <Setting Name="wtkDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Programme\wtk25\</Value>
+    </Setting>
+    <Setting Name="PathToMaps" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PathToTilesets" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="EditorMdiClientSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">743, 551</Value>
+    </Setting>
+    <Setting Name="EditorMdiStartPosition" Type="System.Windows.Forms.FormStartPosition" Scope="User">
+      <Value Profile="(Default)">WindowsDefaultLocation</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

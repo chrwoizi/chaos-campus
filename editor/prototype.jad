@@ -1,0 +1,8 @@
+MIDlet-1: javy prototype, , GameMIDlet
+MIDlet-Jar-Size: 1078979
+MIDlet-Jar-URL: prototype.jar
+MIDlet-Name: GameMIDlet
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

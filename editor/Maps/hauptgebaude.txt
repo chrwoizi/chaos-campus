@@ -1,0 +1,162 @@
+Export log for C:\Dokumente und Einstellungen\Martin Wahnschaffe\Eigene Dateien\Studium\Vorlesungsunterlagen\SEP\svn\MapsBauen\Maps\hauptgebaeude.lvl
+Version: 0, Author: 
+06.07.2007, 08:08
+
+Warning!
+You have not set any exit triggers.
+
+Using story trigger 4 at (15,155)
+Using story trigger 4 at (16,155)
+Using story trigger 4 at (17,155)
+Using story trigger 4 at (18,155)
+Using story trigger 1 at (27,63)
+Using story trigger 1 at (26,63)
+Using story trigger 1 at (25,63)
+Using story trigger 1 at (11,63)
+Using story trigger 1 at (12,63)
+Using story trigger 1 at (13,63)
+Using story trigger 2 at (21,57)
+Using story trigger 3 at (73,9)
+Using story trigger 3 at (74,9)
+
+Tileset uses 479 tiles
+
+Objects used:
+Object at (61,8) : Static object, size 1 x 2
+Object at (62,8) : Static object, size 3 x 2
+Object at (63,13) : Enemy/NPC, serial: 107, NPC_ID: 103
+Object at (73,9) : Story trigger: 3
+Object at (74,9) : Story trigger: 3
+Object at (20,40) : Teleport, target position: 55, 46
+Object at (21,40) : Teleport, target position: 56, 46
+Object at (22,40) : Teleport, target position: 57, 46
+Object at (15,55) : Static object, size 1 x 2
+Object at (18,50) : Static object, size 1 x 3
+Object at (21,54) : Door, serial: 105
+Object at (16,55) : Static object, size 1 x 2
+Object at (21,55) : Door, serial: 104
+Object at (24,50) : Static object, size 1 x 3
+Object at (55,48) : Teleport, target position: 20, 42
+Object at (56,48) : Teleport, target position: 21, 42
+Object at (57,48) : Teleport, target position: 22, 42
+Object at (6,58) : Enemy/NPC, serial: 101, NPC_ID: 3
+Object at (10,57) : Container, serial: 84, contained item: 3
+Object at (11,57) : Container, serial: 85, contained item: 1
+Object at (12,57) : Container, serial: 86, contained item: 2
+Object at (13,57) : Container, serial: 87, contained item: 3
+Object at (10,58) : Container trigger, target: 84, no item required
+Object at (11,58) : Container trigger, target: 85, no item required
+Object at (12,58) : Container trigger, target: 86, no item required
+Object at (13,58) : Container trigger, target: 87, no item required
+Object at (12,61) : Enemy/NPC, serial: 100, NPC_ID: 1
+Object at (11,63) : Story trigger: 1
+Object at (12,63) : Story trigger: 1
+Object at (13,63) : Story trigger: 1
+Object at (21,56) : Door, serial: 103
+Object at (21,57) : Story trigger: 2
+Object at (26,60) : Enemy/NPC, serial: 99, NPC_ID: 3
+Object at (25,63) : Story trigger: 1
+Object at (26,63) : Story trigger: 1
+Object at (27,63) : Story trigger: 1
+Object at (5,67) : Enemy/NPC, serial: 95, NPC_ID: 1
+Object at (12,65) : Enemy/NPC, serial: 97, NPC_ID: 1
+Object at (9,69) : Enemy/NPC, serial: 96, NPC_ID: 3
+Object at (15,71) : Enemy/NPC, serial: 98, NPC_ID: 3
+Object at (25,69) : Enemy/NPC, serial: 94, NPC_ID: 3
+Object at (19,74) : Enemy/NPC, serial: 93, NPC_ID: 3
+Object at (18,79) : Enemy/NPC, serial: 90, NPC_ID: 1
+Object at (41,73) : Teleport, target position: 10, 88
+Object at (42,73) : Teleport, target position: 11, 88
+Object at (43,73) : Teleport, target position: 12, 88
+Object at (60,74) : Static object, size 1 x 2
+Object at (61,74) : Static object, size 1 x 2
+Object at (62,77) : Enemy/NPC, serial: 77, NPC_ID: 1
+Object at (70,78) : Enemy/NPC, serial: 76, NPC_ID: 1
+Object at (78,79) : Enemy/NPC, serial: 74, NPC_ID: 3
+Object at (80,78) : Enemy/NPC, serial: 73, NPC_ID: 3
+Object at (11,80) : Enemy/NPC, serial: 89, NPC_ID: 3
+Object at (15,81) : Enemy/NPC, serial: 91, NPC_ID: 3
+Object at (11,83) : Enemy/NPC, serial: 88, NPC_ID: 1
+Object at (25,80) : Enemy/NPC, serial: 92, NPC_ID: 3
+Object at (42,82) : Enemy/NPC, serial: 83, NPC_ID: 1
+Object at (57,87) : Enemy/NPC, serial: 79, NPC_ID: 1
+Object at (67,80) : Enemy/NPC, serial: 78, NPC_ID: 1
+Object at (10,90) : Teleport, target position: 41, 75
+Object at (11,90) : Teleport, target position: 42, 75
+Object at (12,90) : Teleport, target position: 43, 75
+Object at (46,88) : Enemy/NPC, serial: 81, NPC_ID: 1
+Object at (42,89) : Enemy/NPC, serial: 82, NPC_ID: 1
+Object at (53,89) : Enemy/NPC, serial: 80, NPC_ID: 1
+Object at (65,88) : Enemy/NPC, serial: 75, NPC_ID: 1
+Object at (72,88) : Enemy/NPC, serial: 69, NPC_ID: 1
+Object at (82,88) : Enemy/NPC, serial: 68, NPC_ID: 1
+Object at (93,88) : Enemy/NPC, serial: 67, NPC_ID: 1
+Object at (92,91) : Static object, size 1 x 3
+Object at (93,94) : Enemy/NPC, serial: 65, NPC_ID: 1
+Object at (98,91) : Static object, size 1 x 3
+Object at (99,94) : Enemy/NPC, serial: 64, NPC_ID: 1
+Object at (70,97) : Enemy/NPC, serial: 71, NPC_ID: 3
+Object at (72,98) : Enemy/NPC, serial: 72, NPC_ID: 3
+Object at (91,103) : Enemy/NPC, serial: 66, NPC_ID: 1
+Object at (99,100) : Enemy/NPC, serial: 63, NPC_ID: 1
+Object at (107,100) : Enemy/NPC, serial: 62, NPC_ID: 1
+Object at (114,101) : Enemy/NPC, serial: 61, NPC_ID: 1
+Object at (109,107) : Teleport, target position: 70, 125
+Object at (110,107) : Teleport, target position: 71, 125
+Object at (111,107) : Teleport, target position: 72, 125
+Object at (5,117) : Enemy/NPC, serial: 31, NPC_ID: 3
+Object at (15,117) : Enemy/NPC, serial: 32, NPC_ID: 3
+Object at (22,114) : Container, serial: 39, contained item: 10
+Object at (22,115) : Container trigger, target: 39, no item required
+Object at (24,117) : Enemy/NPC, serial: 33, NPC_ID: 3
+Object at (34,119) : Enemy/NPC, serial: 34, NPC_ID: 3
+Object at (3,123) : Enemy/NPC, serial: 29, NPC_ID: 3
+Object at (24,123) : Enemy/NPC, serial: 35, NPC_ID: 3
+Object at (70,123) : Teleport, target position: 109, 105
+Object at (71,123) : Teleport, target position: 110, 105
+Object at (72,123) : Teleport, target position: 111, 105
+Object at (3,128) : Enemy/NPC, serial: 28, NPC_ID: 3
+Object at (4,132) : Enemy/NPC, serial: 30, NPC_ID: 3
+Object at (9,132) : Enemy/NPC, serial: 27, NPC_ID: 3
+Object at (16,129) : Enemy/NPC, serial: 26, NPC_ID: 3
+Object at (16,131) : Enemy/NPC, serial: 25, NPC_ID: 3
+Object at (27,128) : Enemy/NPC, serial: 36, NPC_ID: 3
+Object at (35,131) : Enemy/NPC, serial: 38, NPC_ID: 3
+Object at (33,132) : Enemy/NPC, serial: 37, NPC_ID: 3
+Object at (39,133) : Static object, size 1 x 3
+Object at (46,133) : Static object, size 1 x 3
+Object at (70,134) : Enemy/NPC, serial: 54, NPC_ID: 3
+Object at (17,138) : Enemy/NPC, serial: 24, NPC_ID: 3
+Object at (24,143) : Container, serial: 18, contained item: 2
+Object at (29,143) : Container, serial: 17, contained item: 1
+Object at (39,138) : Static object, size 1 x 3
+Object at (44,136) : Enemy/NPC, serial: 41, NPC_ID: 1
+Object at (44,138) : Enemy/NPC, serial: 42, NPC_ID: 1
+Object at (46,138) : Static object, size 1 x 3
+Object at (42,139) : Enemy/NPC, serial: 43, NPC_ID: 1
+Object at (51,140) : Enemy/NPC, serial: 48, NPC_ID: 3
+Object at (58,140) : Enemy/NPC, serial: 49, NPC_ID: 3
+Object at (61,141) : Enemy/NPC, serial: 50, NPC_ID: 3
+Object at (75,139) : Enemy/NPC, serial: 55, NPC_ID: 3
+Object at (16,146) : Enemy/NPC, serial: 21, NPC_ID: 3
+Object at (19,146) : Enemy/NPC, serial: 20, NPC_ID: 3
+Object at (24,144) : Container trigger, target: 18, no item required
+Object at (25,144) : Enemy/NPC, serial: 22, NPC_ID: 3
+Object at (29,144) : Container trigger, target: 17, no item required
+Object at (30,144) : Enemy/NPC, serial: 19, NPC_ID: 3
+Object at (45,147) : Container, serial: 40, contained item: 3
+Object at (45,148) : Container trigger, target: 40, item 10 required
+Object at (41,149) : Enemy/NPC, serial: 44, NPC_ID: 2
+Object at (45,149) : Enemy/NPC, serial: 47, NPC_ID: 2
+Object at (43,150) : Enemy/NPC, serial: 45, NPC_ID: 2
+Object at (54,146) : Enemy/NPC, serial: 51, NPC_ID: 3
+Object at (71,149) : Enemy/NPC, serial: 57, NPC_ID: 3
+Object at (66,151) : Enemy/NPC, serial: 53, NPC_ID: 3
+Object at (75,148) : Enemy/NPC, serial: 56, NPC_ID: 3
+Object at (12,153) : Static object, size 1 x 3
+Object at (15,155) : Story trigger: 4
+Object at (21,153) : Static object, size 1 x 3
+Object at (16,155) : Story trigger: 4
+Object at (17,155) : Story trigger: 4
+Object at (18,155) : Story trigger: 4
+Object at (56,153) : Enemy/NPC, serial: 52, NPC_ID: 3

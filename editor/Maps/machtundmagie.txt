@@ -1,0 +1,90 @@
+Export log for C:\Dokumente und Einstellungen\Martin Wahnschaffe\Eigene Dateien\Studium\Vorlesungsunterlagen\SEP\svn\MapsBauen\Maps\machtundmagie.lvl
+Version: 0, Author: 
+11.07.2007, 18:40
+
+Using story trigger 3 at (69,38)
+Using story trigger 1 at (13,36)
+Using story trigger 2 at (11,36)
+Using story trigger 4 at (66,32)
+Using story trigger 0 at (35,15)
+
+Tileset uses 215 tiles
+
+Objects used:
+Object at (18,5) : Container, serial: 20, contained item: 2
+Object at (22,5) : Container, serial: 18, contained item: 1
+Object at (18,6) : Container trigger, target: 20, no item required
+Object at (22,6) : Container trigger, target: 18, no item required
+Object at (31,6) : Static object, size 1 x 3
+Object at (40,6) : Container, serial: 19, contained item: 1
+Object at (42,6) : Static object, size 1 x 3
+Object at (46,6) : Static object, size 1 x 3
+Object at (40,7) : Container trigger, target: 19, no item required
+Object at (55,6) : Static object, size 1 x 3
+Object at (4,10) : Enemy/NPC, serial: 47, NPC_ID: 0
+Object at (9,10) : Static object, size 4 x 4
+Object at (13,10) : Static object, size 3 x 4
+Object at (14,13) : Enemy/NPC, serial: 49, NPC_ID: 1
+Object at (16,10) : Static object, size 3 x 4
+Object at (27,9) : Enemy/NPC, serial: 36, NPC_ID: 1
+Object at (39,9) : Enemy/NPC, serial: 35, NPC_ID: 3
+Object at (35,15) : Trigger enabler, 6 targets
+Object at (35,15) : Story trigger: 0
+Object at (47,8) : Enemy/NPC, serial: 34, NPC_ID: 3
+Object at (41,15) : Static object, size 1 x 3
+Object at (51,15) : Static object, size 1 x 4
+Object at (54,15) : Static object, size 1 x 4
+Object at (61,9) : Enemy/NPC, serial: 32, NPC_ID: 1
+Object at (60,15) : Container, serial: 17, contained item: 3
+Object at (67,8) : Static object, size 1 x 3
+Object at (71,9) : Enemy/NPC, serial: 33, NPC_ID: 1
+Object at (4,17) : Enemy/NPC, serial: 48, NPC_ID: 3
+Object at (11,19) : Static object, size 1 x 4
+Object at (14,23) : Enemy/NPC, serial: 51, NPC_ID: 1
+Object at (23,16) : Enemy/NPC, serial: 53, NPC_ID: 0
+Object at (17,19) : Static object, size 1 x 4
+Object at (23,21) : Enemy/NPC, serial: 54, NPC_ID: 3
+Object at (33,19) : disabled Enemy/NPC, serial: 22, NPC_ID: 3
+Object at (35,19) : disabled Enemy/NPC, serial: 21, NPC_ID: 1
+Object at (33,23) : disabled Enemy/NPC, serial: 26, NPC_ID: 1
+Object at (38,23) : disabled Enemy/NPC, serial: 25, NPC_ID: 3
+Object at (40,19) : disabled Enemy/NPC, serial: 23, NPC_ID: 1
+Object at (40,23) : disabled Enemy/NPC, serial: 24, NPC_ID: 3
+Object at (51,17) : Enemy/NPC, serial: 27, NPC_ID: 3
+Object at (55,20) : Enemy/NPC, serial: 31, NPC_ID: 1
+Object at (50,23) : Enemy/NPC, serial: 30, NPC_ID: 3
+Object at (58,16) : Enemy/NPC, serial: 28, NPC_ID: 3
+Object at (60,16) : Container trigger, target: 17, item 10 required
+Object at (59,23) : Enemy/NPC, serial: 29, NPC_ID: 3
+Object at (67,17) : Static object, size 1 x 3
+Object at (71,19) : Exit trigger, target level: 3
+Object at (67,21) : Static object, size 1 x 3
+Object at (75,17) : Static object, size 1 x 3
+Object at (75,21) : Static object, size 1 x 3
+Object at (5,24) : Enemy/NPC, serial: 50, NPC_ID: 3
+Object at (41,31) : Container, serial: 43, contained item: 0
+Object at (8,36) : Enemy/NPC, serial: 42, NPC_ID: 3
+Object at (9,36) : Item, serial: 39, Item_ID: 3
+Object at (10,36) : Item, serial: 38, Item_ID: 3
+Object at (11,36) : Story trigger: 2
+Object at (13,36) : Story trigger: 1
+Object at (9,37) : Item, serial: 40, Item_ID: 3
+Object at (10,37) : Item, serial: 41, Item_ID: 3
+Object at (19,34) : Enemy/NPC, serial: 55, NPC_ID: 1
+Object at (25,34) : Enemy/NPC, serial: 57, NPC_ID: 0
+Object at (28,34) : Enemy/NPC, serial: 58, NPC_ID: 3
+Object at (36,39) : Static object, size 4 x 3
+Object at (41,32) : Container trigger, target: 43, no item required
+Object at (43,36) : Enemy/NPC, serial: 60, NPC_ID: 3
+Object at (48,39) : Enemy/NPC, serial: 63, NPC_ID: 0
+Object at (66,32) : Story trigger: 4
+Object at (69,38) : Story trigger: 3
+Object at (18,41) : Enemy/NPC, serial: 56, NPC_ID: 0
+Object at (23,42) : Enemy/NPC, serial: 59, NPC_ID: 1
+Object at (20,43) : Static object, size 1 x 4
+Object at (28,43) : Static object, size 1 x 4
+Object at (45,44) : Enemy/NPC, serial: 61, NPC_ID: 1
+Object at (52,44) : Enemy/NPC, serial: 46, NPC_ID: 1
+Object at (61,44) : Enemy/NPC, serial: 64, NPC_ID: 1
+Object at (69,44) : Enemy/NPC, serial: 45, NPC_ID: 1
+Object at (76,44) : Enemy/NPC, serial: 65, NPC_ID: 3

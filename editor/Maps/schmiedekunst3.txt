@@ -1,0 +1,122 @@
+Export log for C:\Dokumente und Einstellungen\Martin Wahnschaffe\Eigene Dateien\Studium\Vorlesungsunterlagen\SEP\svn\MapsBauen\Maps\schmiedekunst3.lvl
+Version: 1, Author: Alexandr Beresnev
+06.07.2007, 07:46
+
+Using comment trigger 22 at (22,10)
+
+Tileset uses 79 tiles
+
+Objects used:
+Object at (12,11) : Damager, serial: 39, Damage value: 1
+Object at (13,11) : Damager, serial: 40, Damage value: 2
+Object at (12,12) : Damager, serial: 38, Damage value: 2
+Object at (13,12) : Damager, serial: 41, Damage value: 3
+Object at (22,10) : Trigger enabler, 1 targets
+Object at (22,10) : Comment trigger, using comment: 22
+Object at (16,13) : Damager, serial: 2, Damage value: 5
+Object at (17,13) : Damager, serial: 3, Damage value: 5
+Object at (18,13) : Damager, serial: 4, Damage value: 5
+Object at (19,13) : Damager, serial: 5, Damage value: 5
+Object at (20,13) : Damager, serial: 6, Damage value: 5
+Object at (21,13) : Damager, serial: 7, Damage value: 5
+Object at (22,13) : Damager, serial: 8, Damage value: 5
+Object at (23,13) : Damager, serial: 9, Damage value: 5
+Object at (16,14) : Damager, serial: 33, Damage value: 5
+Object at (17,14) : Damager, serial: 135, Damage value: 99
+Object at (18,14) : Damager, serial: 136, Damage value: 99
+Object at (19,14) : Damager, serial: 137, Damage value: 99
+Object at (20,14) : Damager, serial: 138, Damage value: 99
+Object at (21,14) : Damager, serial: 139, Damage value: 99
+Object at (22,14) : Damager, serial: 140, Damage value: 99
+Object at (23,14) : Damager, serial: 141, Damage value: 99
+Object at (16,15) : Damager, serial: 32, Damage value: 5
+Object at (17,15) : Damager, serial: 158, Damage value: 99
+Object at (22,15) : disabled Enemy/NPC, serial: 1, NPC_ID: 102
+Object at (28,10) : Damager, serial: 34, Damage value: 1
+Object at (29,10) : Damager, serial: 35, Damage value: 2
+Object at (28,11) : Damager, serial: 36, Damage value: 2
+Object at (29,11) : Damager, serial: 37, Damage value: 3
+Object at (24,13) : Damager, serial: 10, Damage value: 5
+Object at (25,13) : Damager, serial: 11, Damage value: 5
+Object at (26,13) : Damager, serial: 12, Damage value: 5
+Object at (27,13) : Damager, serial: 13, Damage value: 5
+Object at (28,13) : Damager, serial: 14, Damage value: 5
+Object at (24,14) : Damager, serial: 142, Damage value: 99
+Object at (25,14) : Damager, serial: 143, Damage value: 99
+Object at (26,14) : Damager, serial: 144, Damage value: 99
+Object at (27,14) : Damager, serial: 145, Damage value: 99
+Object at (28,14) : Damager, serial: 15, Damage value: 5
+Object at (27,15) : Damager, serial: 146, Damage value: 99
+Object at (28,15) : Damager, serial: 16, Damage value: 5
+Object at (9,22) : Static object, size 1 x 3
+Object at (10,22) : Static object, size 2 x 2
+Object at (14,22) : Static object, size 2 x 2
+Object at (16,16) : Damager, serial: 31, Damage value: 5
+Object at (17,16) : Damager, serial: 159, Damage value: 99
+Object at (18,16) : Damager, serial: 156, Damage value: 99
+Object at (19,16) : Damager, serial: 155, Damage value: 99
+Object at (20,16) : Damager, serial: 154, Damage value: 99
+Object at (21,16) : Damager, serial: 153, Damage value: 99
+Object at (22,16) : Damager, serial: 152, Damage value: 99
+Object at (23,16) : Damager, serial: 151, Damage value: 99
+Object at (16,17) : Damager, serial: 30, Damage value: 5
+Object at (17,17) : Damager, serial: 29, Damage value: 5
+Object at (18,17) : Damager, serial: 28, Damage value: 5
+Object at (19,17) : Damager, serial: 27, Damage value: 5
+Object at (20,17) : Damager, serial: 26, Damage value: 5
+Object at (21,17) : Damager, serial: 25, Damage value: 5
+Object at (22,17) : Damager, serial: 24, Damage value: 5
+Object at (23,17) : Damager, serial: 23, Damage value: 5
+Object at (21,18) : Damager, serial: 42, Damage value: 1
+Object at (22,18) : Damager, serial: 43, Damage value: 2
+Object at (21,19) : Damager, serial: 45, Damage value: 2
+Object at (22,19) : Damager, serial: 44, Damage value: 3
+Object at (16,22) : Static object, size 1 x 3
+Object at (18,22) : Static object, size 1 x 3
+Object at (19,22) : Static object, size 2 x 2
+Object at (23,22) : Static object, size 2 x 2
+Object at (24,16) : Damager, serial: 150, Damage value: 99
+Object at (25,16) : Damager, serial: 149, Damage value: 99
+Object at (26,16) : Damager, serial: 148, Damage value: 99
+Object at (27,16) : Damager, serial: 147, Damage value: 99
+Object at (28,16) : Damager, serial: 17, Damage value: 5
+Object at (24,17) : Damager, serial: 22, Damage value: 5
+Object at (25,17) : Damager, serial: 21, Damage value: 5
+Object at (26,17) : Damager, serial: 20, Damage value: 5
+Object at (27,17) : Damager, serial: 19, Damage value: 5
+Object at (28,17) : Damager, serial: 18, Damage value: 5
+Object at (26,20) : Damager, serial: 46, Damage value: 1
+Object at (27,20) : Damager, serial: 47, Damage value: 2
+Object at (26,21) : Damager, serial: 50, Damage value: 2
+Object at (27,21) : Damager, serial: 51, Damage value: 3
+Object at (25,22) : Static object, size 1 x 3
+Object at (29,22) : Static object, size 1 x 3
+Object at (30,22) : Static object, size 2 x 2
+Object at (34,22) : Static object, size 2 x 2
+Object at (36,22) : Static object, size 1 x 3
+Object at (14,34) : Static object, size 1 x 3
+Object at (15,34) : Static object, size 3 x 2
+Object at (10,39) : Damager, serial: 62, Damage value: 1
+Object at (11,39) : Damager, serial: 63, Damage value: 2
+Object at (15,39) : Enemy/NPC, serial: 131, NPC_ID: 1
+Object at (18,34) : Static object, size 1 x 3
+Object at (16,36) : Enemy/NPC, serial: 130, NPC_ID: 1
+Object at (25,34) : Static object, size 1 x 3
+Object at (26,34) : Static object, size 3 x 2
+Object at (29,34) : Static object, size 1 x 3
+Object at (24,36) : Enemy/NPC, serial: 132, NPC_ID: 1
+Object at (29,39) : Damager, serial: 56, Damage value: 1
+Object at (30,39) : Damager, serial: 57, Damage value: 2
+Object at (36,33) : Damager, serial: 52, Damage value: 1
+Object at (37,33) : Damager, serial: 53, Damage value: 2
+Object at (36,34) : Damager, serial: 55, Damage value: 2
+Object at (37,34) : Damager, serial: 54, Damage value: 3
+Object at (32,36) : Enemy/NPC, serial: 133, NPC_ID: 1
+Object at (10,40) : Damager, serial: 61, Damage value: 2
+Object at (11,40) : Damager, serial: 60, Damage value: 3
+Object at (22,43) : Exit trigger, target level: 5
+Object at (23,43) : Exit trigger, target level: 5
+Object at (29,40) : Damager, serial: 59, Damage value: 2
+Object at (30,40) : Damager, serial: 58, Damage value: 3
+Object at (24,43) : Exit trigger, target level: 5
+Object at (25,43) : Exit trigger, target level: 5

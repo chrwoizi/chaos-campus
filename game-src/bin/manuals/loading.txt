@@ -1,0 +1,7 @@
+STEUERUNG:
+2-4-6-8 Bewegung
+1 Angriff
+7 Zaubern/Spezialangriff
+3 Benutzen (Tür, Truhe)
+5 Inventar
+# Menü

@@ -1,0 +1,75 @@
+Export log for C:\Dokumente und Einstellungen\Martin Wahnschaffe\Eigene Dateien\Studium\SEP\svn\MapsBauen\Maps\schmiedekunst2.lvl
+Version: 1, Author: Sascha
+03.07.2007, 02:53
+
+Using comment trigger 48 at (69,47)
+Using comment trigger 48 at (72,47)
+Using comment trigger 48 at (75,47)
+Using story trigger 2 at (45,23)
+Using comment trigger 48 at (8,19)
+Using comment trigger 48 at (11,19)
+Using story trigger 1 at (52,16)
+Using comment trigger 50 at (25,11)
+
+Tileset uses 167 tiles
+
+Objects used:
+Object at (21,7) : Container, serial: 39, contained item: 10
+Object at (28,7) : Container, serial: 38, contained item: 11
+Object at (33,7) : Container, serial: 37, contained item: 12
+Object at (35,7) : Container, serial: 36, contained item: 9
+Object at (21,8) : Container trigger, target: 39, no item required
+Object at (17,10) : Enemy/NPC, serial: 33, NPC_ID: 1
+Object at (28,8) : Container trigger, target: 38, no item required
+Object at (25,9) : Enemy/NPC, serial: 74, NPC_ID: 3
+Object at (31,10) : Enemy/NPC, serial: 34, NPC_ID: 1
+Object at (25,11) : Comment trigger, using comment: 50
+Object at (33,8) : Container trigger, target: 37, item 10 required
+Object at (35,8) : Container trigger, target: 36, item 11 required
+Object at (8,19) : Comment trigger, using comment: 48
+Object at (11,19) : Comment trigger, using comment: 48
+Object at (12,20) : Enemy/NPC, serial: 29, NPC_ID: 1
+Object at (8,22) : Enemy/NPC, serial: 28, NPC_ID: 1
+Object at (28,21) : Enemy/NPC, serial: 31, NPC_ID: 1
+Object at (45,23) : Story trigger: 2
+Object at (52,16) : Story trigger: 1
+Object at (49,19) : Enemy/NPC, serial: 75, NPC_ID: 1
+Object at (58,20) : Enemy/NPC, serial: 76, NPC_ID: 1
+Object at (56,22) : Enemy/NPC, serial: 78, NPC_ID: 1
+Object at (65,20) : Exit trigger, target level: 6
+Object at (65,20) : Door, serial: 40
+Object at (10,30) : Enemy/NPC, serial: 27, NPC_ID: 1
+Object at (18,25) : Enemy/NPC, serial: 30, NPC_ID: 1
+Object at (37,25) : Enemy/NPC, serial: 32, NPC_ID: 1
+Object at (52,26) : Enemy/NPC, serial: 77, NPC_ID: 1
+Object at (8,38) : Enemy/NPC, serial: 26, NPC_ID: 1
+Object at (21,35) : Enemy/NPC, serial: 17, NPC_ID: 1
+Object at (16,37) : Enemy/NPC, serial: 16, NPC_ID: 1
+Object at (23,38) : Enemy/NPC, serial: 18, NPC_ID: 1
+Object at (32,37) : Enemy/NPC, serial: 72, NPC_ID: 1
+Object at (40,36) : Enemy/NPC, serial: 73, NPC_ID: 1
+Object at (46,38) : Enemy/NPC, serial: 20, NPC_ID: 1
+Object at (51,36) : Enemy/NPC, serial: 19, NPC_ID: 1
+Object at (63,38) : Enemy/NPC, serial: 22, NPC_ID: 1
+Object at (10,47) : Enemy/NPC, serial: 25, NPC_ID: 1
+Object at (57,40) : Enemy/NPC, serial: 21, NPC_ID: 1
+Object at (69,47) : Comment trigger, using comment: 48
+Object at (72,47) : Comment trigger, using comment: 48
+Object at (75,47) : Comment trigger, using comment: 48
+Object at (19,49) : Enemy/NPC, serial: 1, NPC_ID: 1
+Object at (30,48) : Enemy/NPC, serial: 2, NPC_ID: 1
+Object at (31,54) : Enemy/NPC, serial: 6, NPC_ID: 1
+Object at (43,49) : Enemy/NPC, serial: 3, NPC_ID: 1
+Object at (48,54) : Enemy/NPC, serial: 4, NPC_ID: 1
+Object at (57,50) : Enemy/NPC, serial: 9, NPC_ID: 1
+Object at (61,54) : Enemy/NPC, serial: 11, NPC_ID: 1
+Object at (69,49) : Enemy/NPC, serial: 12, NPC_ID: 1
+Object at (67,54) : Enemy/NPC, serial: 15, NPC_ID: 1
+Object at (77,53) : Enemy/NPC, serial: 13, NPC_ID: 1
+Object at (10,58) : Enemy/NPC, serial: 24, NPC_ID: 1
+Object at (20,60) : Enemy/NPC, serial: 7, NPC_ID: 1
+Object at (30,60) : Enemy/NPC, serial: 8, NPC_ID: 1
+Object at (33,63) : Exit trigger, target level: 4
+Object at (43,59) : Enemy/NPC, serial: 5, NPC_ID: 1
+Object at (58,58) : Enemy/NPC, serial: 10, NPC_ID: 1
+Object at (71,60) : Enemy/NPC, serial: 14, NPC_ID: 1

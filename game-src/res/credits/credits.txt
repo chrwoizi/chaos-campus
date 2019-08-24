@@ -1,0 +1,63 @@
+
+
+
+
+
+
+Chaos Campus
+
+SEP Thema: ./javy - Das Handygame
+
+Wer hat's gemacht?
+
+Handygame
+-----------
+"Player" - Martin Fiebig 
+"HBK <-> TU" - Bettina Görtz 
+Bertille Kemgang 
+Claudia Latta 
+"The Riddler" - Sascha Lity 
+"BetaGirl" - Inga Lowin 
+"Enemy #1" - Malte Mauritz 
+Sandrine Mbelale
+"GUI-GUY" - Paul Tatou
+"Cheffe" - Martin Wahnschaffe
+"Loading..." - Christian Woizischke
+
+Leveleditor
+-------------
+Alexandr Beresnev
+"DocuMan" - Tobias Lange
+"Undo-Master" - Markus Lorenz
+"Läuft" - Florian Mätschke
+"The Exporter" - Stefan Tobias
+Richard Wolfer
+
+Betreuung
+-----------
+"Die Don" - Brigitte Matthiak
+"Weihnachtskinde" - Andrea Keil
+
+HBK
+-----
+Lena Ermgassen
+Petra Popescu
+Martin Hallmann
+Julia Henkel
+Yu Ning
+
+Story
+------
+Sascha Lity
+Tobias Lange
+
+Vielen Dank an alle Tester und weiteren Helfer!
+
+
+
+
+
+Starte freies Spiel...
+
+
+

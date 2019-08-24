@@ -1,0 +1,11 @@
+Anleitung
+
+Bei diesem Minigame muss man den Turm von links nach ganz rechts umstapeln.
+Der schwarze Punkt markiert den aktiven Block. 
+Drückt man nun 1, wird der Block ausgewählt und man steuert ihn nun durch die Tasten:
+4 links
+6 rechts
+1 platzieren
+
+Es ist immer nur möglich einen Block auf einmal zu transportieren
+und es lassen sich nur kleinere Blöcke auf größere setzen.

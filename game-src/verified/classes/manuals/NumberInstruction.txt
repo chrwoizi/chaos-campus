@@ -1,0 +1,12 @@
+Anleitung
+
+Bei diesem Minigame müssen die letzten zwei Zahlen der Zahlenreihe vervollständigt werden.
+
+Steuerung:
+4 links 
+6 rechts 
+2 hochzählen
+8 runterzählen.
+
+Tipp:
+Im Wald gibt es Hinweise.

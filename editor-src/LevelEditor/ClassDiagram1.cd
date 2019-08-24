@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Javy.MapControl" Collapsed="true">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Controls\MapControl.cs</FileName>
+      <HashCode>AABAEAAAEDAAACAAgQCAAAACAAAQAAABAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Javy.TileControl">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Controls\TileControl.cs</FileName>
+      <HashCode>AN4ScxkIADBgMQ4CkWWQgAUWAgAYFAAQoAKAtwBBhSE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Javy.MapForm">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MapForm.cs</FileName>
+      <HashCode>AAAAAAAAADAAAAAAAACAQAACAAAAAAAAAAAACAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

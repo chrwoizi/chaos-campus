@@ -1,0 +1,19 @@
+Anleitung
+
+Bei diesem Minigame ist es das Ziel, eine Farbenkombination zu erraten.
+Mit den Tasten 
+
+2 hoch 
+8 runter
+
+wählt man eine Farbe aus und drückt 1 zum Bestätigen.
+Nun kann man die Position der Farbe in der angegebenen Reihe festlegen.
+Mit 1 bestätigt man die Postion.
+Jetzt kann man sich wieder eine Farbe aussuchen und diese setzen, bis die 4 Farbpositionen alle gefüllt sind.
+Nun wird die gewählte Farbenkombination ausgewertet.
+Der schwarze Punkte heißt:
+An dieser Postion ist diese Farbe richtig.
+Der weiße Punkt heitßt: 
+Irgendeine Farbe ist richtig, aber an falscher Postion.
+
+Tipp: Es können auch Farben doppelt vorkommen.

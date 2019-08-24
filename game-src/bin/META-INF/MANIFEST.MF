@@ -1,0 +1,7 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: TU Braunschweig
+MIDlet-Jar-URL: prototype.jar
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Name: Chaos Campus
+MIDlet-1: Chaos Campus, /icon.png, GameMIDlet

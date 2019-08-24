@@ -1,0 +1,20 @@
+Einleitung 
+
+Ziel des Spiels ist es in der Story 
+fortzuschreiten und das Ende zu erreichen. 
+Die Spielfigur wird mit den Zahlentasten des Handys gesteuert:
+
+Bewegung:
+2 hoch 
+4 links
+6 rechts
+8 runter 
+
+Weitere Tastenbelegungen sind:
+1 kämpfen
+3 benutzen von Türen, Truhen, etc. 
+5 Inventar
+7 Spezialfertigkeiten
+# Menü
+______________________
+zurück mit 1

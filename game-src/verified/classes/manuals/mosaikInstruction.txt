@@ -1,0 +1,15 @@
+Anleitung
+
+Bei diesem Minigame muss man ein verschobenes Mosaikbild wieder zusammenschieben.
+
+Es lassen sich immer die Bildelemente verschieben, die neben dem schwarzen Feld sind.
+
+Für die Markierung der Bildelemente benutzt man die Tasten:
+2 oben 
+4 links
+6 rechts
+8 unten
+
+Wenn ein Bildteil markiert ist und in das schwarze Feld geschoben werden soll, drückt man die 1. 
+
+Hilfestellung: Beim fertigen Bild, befindet sich das schwarze Feld oben rechts in der Ecke.

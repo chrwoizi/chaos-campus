@@ -1,0 +1,8 @@
+MIDlet-1: Chaos Campus, /icon.png, GameMIDlet
+MIDlet-Jar-Size: 2246795
+MIDlet-Jar-URL: ChaosCampus.jar
+MIDlet-Name: Chaos Campus
+MIDlet-Vendor: TU Braunschweig
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelEditor", "LevelEditor\LevelEditor.csproj", "{033A90B8-8A2A-4345-9372-F6896D3C37C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorObjects", "EditorObjects\EditorObjects.csproj", "{A0105C33-2306-41B6-94F0-AE4E0709E422}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D058DEBC-689A-46AF-B1C9-A1A530EF4074}"
+	ProjectSection(SolutionItems) = preProject
+		LevelEditor.vsmdi = LevelEditor.vsmdi
+		localtestrun.testrunconfig = localtestrun.testrunconfig
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projektmappenelemente", "Projektmappenelemente", "{011ECDE5-773F-451E-8C99-8B4353CFF8B3}"
+	ProjectSection(SolutionItems) = preProject
+		..\LevelEditor.vsd = ..\LevelEditor.vsd
+		Dokumente\LevelEditor.vsd = Dokumente\LevelEditor.vsd
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Javy Leveleditor RC2", "Javy Leveleditor RC1\Javy Leveleditor RC1.vdproj", "{89A3203D-10CF-4F72-8B7E-52E67453486B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Framework", "Test Framework\Test Framework.csproj", "{3A58DEBF-7692-480E-A598-2BB6B292B1B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033A90B8-8A2A-4345-9372-F6896D3C37C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033A90B8-8A2A-4345-9372-F6896D3C37C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033A90B8-8A2A-4345-9372-F6896D3C37C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033A90B8-8A2A-4345-9372-F6896D3C37C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0105C33-2306-41B6-94F0-AE4E0709E422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0105C33-2306-41B6-94F0-AE4E0709E422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0105C33-2306-41B6-94F0-AE4E0709E422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0105C33-2306-41B6-94F0-AE4E0709E422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A3203D-10CF-4F72-8B7E-52E67453486B}.Debug|Any CPU.ActiveCfg = Debug
+		{89A3203D-10CF-4F72-8B7E-52E67453486B}.Release|Any CPU.ActiveCfg = Release
+		{3A58DEBF-7692-480E-A598-2BB6B292B1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A58DEBF-7692-480E-A598-2BB6B292B1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A58DEBF-7692-480E-A598-2BB6B292B1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A58DEBF-7692-480E-A598-2BB6B292B1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

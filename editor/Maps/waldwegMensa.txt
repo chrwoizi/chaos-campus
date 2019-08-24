@@ -1,0 +1,170 @@
+Export log for C:\Dokumente und Einstellungen\Martin Wahnschaffe\Eigene Dateien\Studium\Vorlesungsunterlagen\SEP\svn\MapsBauen\Maps\waldwegMensa.lvl
+Version: 0, Author: 
+11.07.2007, 18:38
+
+Using comment trigger 21 at (110,78)
+Using comment trigger 16 at (75,72)
+Using comment trigger 53 at (161,66)
+Using comment trigger 51 at (161,57)
+Using story trigger 10 at (161,55)
+Using comment trigger 13 at (80,51)
+Using comment trigger 52 at (161,48)
+Using comment trigger 12 at (18,46)
+Using comment trigger 54 at (135,44)
+Using comment trigger 56 at (138,44)
+Using comment trigger 54 at (148,44)
+Using comment trigger 55 at (150,44)
+Using comment trigger 54 at (136,44)
+Using comment trigger 56 at (137,44)
+Using comment trigger 54 at (149,44)
+Using comment trigger 55 at (151,44)
+Using story trigger 11 at (161,43)
+Using comment trigger 15 at (56,20)
+Using story trigger 1 at (147,18)
+Using comment trigger 14 at (124,12)
+Using comment trigger 14 at (125,12)
+Using comment trigger 20 at (89,10)
+Using comment trigger 11 at (35,9)
+
+Tileset uses 343 tiles
+
+Objects used:
+Object at (12,3) : Exit trigger, target level: 1
+Object at (119,7) : Item, serial: 133, Item_ID: 2
+Object at (12,11) : Enemy/NPC, serial: 52, NPC_ID: 0
+Object at (14,13) : Static object, size 3 x 4
+Object at (26,12) : disabled Enemy/NPC, serial: 339, NPC_ID: 0
+Object at (29,13) : disabled Enemy/NPC, serial: 343, NPC_ID: 0
+Object at (26,14) : disabled Enemy/NPC, serial: 340, NPC_ID: 0
+Object at (35,9) : Comment trigger, using comment: 11
+Object at (38,9) : Item, serial: 116, Item_ID: 1
+Object at (39,9) : Item, serial: 117, Item_ID: 1
+Object at (38,10) : Item, serial: 118, Item_ID: 1
+Object at (38,10) : Trigger enabler, 6 targets
+Object at (58,13) : Enemy/NPC, serial: 97, NPC_ID: 0
+Object at (87,10) : Enemy/NPC, serial: 99, NPC_ID: 3
+Object at (89,10) : Comment trigger, using comment: 20
+Object at (111,11) : Enemy/NPC, serial: 100, NPC_ID: 2
+Object at (111,13) : Enemy/NPC, serial: 102, NPC_ID: 2
+Object at (122,8) : Enemy/NPC, serial: 105, NPC_ID: 0
+Object at (120,9) : Enemy/NPC, serial: 103, NPC_ID: 0
+Object at (124,11) : Static object, size 2 x 3
+Object at (124,12) : Comment trigger, using comment: 14
+Object at (125,12) : Comment trigger, using comment: 14
+Object at (154,14) : Enemy/NPC, serial: 485, NPC_ID: 3
+Object at (157,14) : Exit trigger, target level: 3
+Object at (157,15) : Exit trigger, target level: 3
+Object at (13,19) : Enemy/NPC, serial: 51, NPC_ID: 0
+Object at (26,16) : disabled Enemy/NPC, serial: 341, NPC_ID: 0
+Object at (29,17) : disabled Enemy/NPC, serial: 344, NPC_ID: 0
+Object at (26,18) : disabled Enemy/NPC, serial: 342, NPC_ID: 0
+Object at (30,23) : Enemy/NPC, serial: 95, NPC_ID: 2
+Object at (34,19) : Static object, size 4 x 4
+Object at (34,20) : Static object, size 4 x 3
+Object at (42,23) : Enemy/NPC, serial: 93, NPC_ID: 0
+Object at (53,22) : Item, serial: 135, Item_ID: 1
+Object at (56,20) : Comment trigger, using comment: 15
+Object at (73,22) : Enemy/NPC, serial: 98, NPC_ID: 0
+Object at (86,17) : Static object, size 4 x 4
+Object at (86,18) : Static object, size 4 x 3
+Object at (109,21) : Enemy/NPC, serial: 101, NPC_ID: 2
+Object at (128,17) : Enemy/NPC, serial: 104, NPC_ID: 2
+Object at (141,20) : Enemy/NPC, serial: 110, NPC_ID: 2
+Object at (141,22) : Enemy/NPC, serial: 111, NPC_ID: 0
+Object at (147,16) : Door, serial: 575
+Object at (147,17) : Door, serial: 574
+Object at (147,17) : Teleport, target position: 110, 77
+Object at (147,18) : Story trigger: 1
+Object at (147,18) : Door trigger, target: 574, item 6 required
+Object at (147,18) : Door trigger, target: 575, item 6 required
+Object at (155,16) : Static object, size 4 x 3
+Object at (20,26) : Enemy/NPC, serial: 59, NPC_ID: 2
+Object at (57,26) : Static object, size 3 x 3
+Object at (69,25) : Static object, size 2 x 3
+Object at (66,29) : Enemy/NPC, serial: 80, NPC_ID: 0
+Object at (79,30) : Enemy/NPC, serial: 79, NPC_ID: 0
+Object at (10,34) : Enemy/NPC, serial: 60, NPC_ID: 0
+Object at (17,33) : Item, serial: 119, Item_ID: 1
+Object at (29,32) : Enemy/NPC, serial: 94, NPC_ID: 0
+Object at (50,33) : Enemy/NPC, serial: 92, NPC_ID: 2
+Object at (60,39) : Static object, size 3 x 3
+Object at (10,41) : Enemy/NPC, serial: 62, NPC_ID: 0
+Object at (12,42) : Static object, size 4 x 4
+Object at (12,43) : Static object, size 4 x 3
+Object at (15,47) : Item, serial: 466, Item_ID: 5
+Object at (18,46) : Comment trigger, using comment: 12
+Object at (27,47) : Enemy/NPC, serial: 63, NPC_ID: 3
+Object at (44,47) : Enemy/NPC, serial: 64, NPC_ID: 0
+Object at (84,42) : Enemy/NPC, serial: 78, NPC_ID: 0
+Object at (135,44) : Comment trigger, using comment: 54
+Object at (136,44) : Comment trigger, using comment: 54
+Object at (137,44) : Comment trigger, using comment: 56
+Object at (138,44) : Comment trigger, using comment: 56
+Object at (148,44) : Comment trigger, using comment: 54
+Object at (149,44) : Comment trigger, using comment: 54
+Object at (150,44) : Comment trigger, using comment: 55
+Object at (151,44) : Comment trigger, using comment: 55
+Object at (161,43) : Door, serial: 505
+Object at (161,43) : Story trigger: 11
+Object at (161,44) : Door trigger, target: 505, no item required
+Object at (12,55) : Static object, size 4 x 4
+Object at (17,48) : Enemy/NPC, serial: 61, NPC_ID: 0
+Object at (18,55) : Enemy/NPC, serial: 371, NPC_ID: 2
+Object at (26,51) : Static object, size 4 x 3
+Object at (47,48) : Enemy/NPC, serial: 76, NPC_ID: 0
+Object at (44,50) : Static object, size 2 x 3
+Object at (51,51) : Static object, size 4 x 3
+Object at (63,55) : Enemy/NPC, serial: 75, NPC_ID: 2
+Object at (70,48) : Enemy/NPC, serial: 77, NPC_ID: 0
+Object at (78,55) : Enemy/NPC, serial: 81, NPC_ID: 0
+Object at (80,51) : Comment trigger, using comment: 13
+Object at (120,50) : Enemy/NPC, serial: 582, NPC_ID: 3
+Object at (123,52) : Enemy/NPC, serial: 584, NPC_ID: 3
+Object at (133,48) : Enemy/NPC, serial: 581, NPC_ID: 3
+Object at (136,48) : Enemy/NPC, serial: 576, NPC_ID: 3
+Object at (161,48) : Comment trigger, using comment: 52
+Object at (161,54) : Door, serial: 504
+Object at (161,54) : Teleport, target position: 161, 49
+Object at (161,55) : Story trigger: 10
+Object at (10,63) : Item, serial: 123, Item_ID: 1
+Object at (10,63) : Trigger enabler, 5 targets
+Object at (20,57) : Enemy/NPC, serial: 369, NPC_ID: 0
+Object at (21,58) : Enemy/NPC, serial: 370, NPC_ID: 0
+Object at (16,59) : Enemy/NPC, serial: 367, NPC_ID: 0
+Object at (18,59) : Enemy/NPC, serial: 368, NPC_ID: 0
+Object at (28,58) : Enemy/NPC, serial: 72, NPC_ID: 0
+Object at (27,60) : Item, serial: 126, Item_ID: 1
+Object at (33,61) : Enemy/NPC, serial: 73, NPC_ID: 2
+Object at (33,62) : Item, serial: 125, Item_ID: 1
+Object at (36,63) : Static object, size 2 x 3
+Object at (42,56) : Enemy/NPC, serial: 74, NPC_ID: 0
+Object at (63,58) : Item, serial: 127, Item_ID: 1
+Object at (82,57) : Enemy/NPC, serial: 379, NPC_ID: 0
+Object at (81,60) : Enemy/NPC, serial: 378, NPC_ID: 2
+Object at (86,60) : Enemy/NPC, serial: 82, NPC_ID: 3
+Object at (84,62) : Enemy/NPC, serial: 374, NPC_ID: 0
+Object at (89,63) : Enemy/NPC, serial: 376, NPC_ID: 0
+Object at (119,63) : Enemy/NPC, serial: 577, NPC_ID: 3
+Object at (122,63) : Enemy/NPC, serial: 583, NPC_ID: 3
+Object at (157,60) : Enemy/NPC, serial: 573, NPC_ID: 101
+Object at (161,57) : Comment trigger, using comment: 51
+Object at (11,64) : Item, serial: 124, Item_ID: 1
+Object at (16,65) : Static object, size 2 x 3
+Object at (67,69) : Item, serial: 130, Item_ID: 1
+Object at (68,69) : Trigger enabler, 9 targets
+Object at (69,69) : Item, serial: 131, Item_ID: 2
+Object at (67,70) : Item, serial: 129, Item_ID: 1
+Object at (68,70) : Item, serial: 128, Item_ID: 1
+Object at (77,64) : Enemy/NPC, serial: 372, NPC_ID: 0
+Object at (79,64) : Enemy/NPC, serial: 373, NPC_ID: 2
+Object at (75,68) : Static object, size 4 x 4
+Object at (75,69) : Static object, size 4 x 3
+Object at (86,65) : Enemy/NPC, serial: 377, NPC_ID: 0
+Object at (81,67) : Enemy/NPC, serial: 380, NPC_ID: 2
+Object at (81,69) : Enemy/NPC, serial: 375, NPC_ID: 0
+Object at (121,70) : Enemy/NPC, serial: 578, NPC_ID: 3
+Object at (161,66) : Comment trigger, using comment: 53
+Object at (75,72) : Comment trigger, using comment: 16
+Object at (110,78) : Comment trigger, using comment: 21
+Object at (124,72) : Enemy/NPC, serial: 579, NPC_ID: 3
+Object at (152,77) : Enemy/NPC, serial: 580, NPC_ID: 3

@@ -1,0 +1,367 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{033A90B8-8A2A-4345-9372-F6896D3C37C8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Javy</RootNamespace>
+    <AssemblyName>LevelEditor</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.85.1.271, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\References\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking, Version=2.0.2649.16786, Culture=neutral, PublicKeyToken=d481317c817cec47, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\References\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Brushes\BrushOpCollision.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Brushes\BrushOpCollision.Designer.cs">
+      <DependentUpon>BrushOpCollision.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Brushes\BrushOpObject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Brushes\BrushOpObject.Designer.cs">
+      <DependentUpon>BrushOpObject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Brushes\BrushOpTile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Brushes\BrushOpTile.Designer.cs">
+      <DependentUpon>BrushOpTile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Brushes\BrushOptions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Brushes\BrushOptions.Designer.cs">
+      <DependentUpon>BrushOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\UndoControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\UndoControl.Designer.cs">
+      <DependentUpon>UndoControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MissingTilesetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MissingTilesetForm.Designer.cs">
+      <DependentUpon>MissingTilesetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OptionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OptionsForm.Designer.cs">
+      <DependentUpon>OptionsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReplaceTilesetsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReplaceTilesetsForm.Designer.cs">
+      <DependentUpon>ReplaceTilesetsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResizeMapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResizeMapForm.Designer.cs">
+      <DependentUpon>ResizeMapForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="Toolboxes\BrushToolForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Toolboxes\BrushToolForm.Designer.cs">
+      <DependentUpon>BrushToolForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Brushes\CollisionButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Brushes\CollisionButton.Designer.cs">
+      <DependentUpon>CollisionButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MapObjectInspector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MapObjectInspector.Designer.cs">
+      <DependentUpon>MapObjectInspector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\PanelD.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\PanelD.Designer.cs">
+      <DependentUpon>PanelD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SoundControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SoundControl.Designer.cs">
+      <DependentUpon>SoundControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditorMDI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditorMDI.Designer.cs">
+      <DependentUpon>EditorMDI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapForm.Designer.cs">
+      <DependentUpon>MapForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MapControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MapControl.Designer.cs">
+      <DependentUpon>MapControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Toolboxes\MapObjectInspectorToolForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Toolboxes\MapObjectInspectorToolForm.Designer.cs">
+      <DependentUpon>MapObjectInspectorToolForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewMapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewMapForm.Designer.cs">
+      <DependentUpon>NewMapForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Toolboxes\BrushToolForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BrushToolForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Brushes\CollisionButton.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CollisionButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SoundControl.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SoundControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditorMDI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EditorMDI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MapForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MapControl.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MapControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewMapForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NewMapForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\TileControl.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TileControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Toolboxes\SoundToolForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SoundToolForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Toolboxes\TilesetToolForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TilesetToolForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="LevelEditorHelp.chm">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Controls\TileControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\TileControl.Designer.cs">
+      <DependentUpon>TileControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Toolboxes\SoundToolForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Toolboxes\SoundToolForm.Designer.cs">
+      <DependentUpon>SoundToolForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Toolboxes\TilesetToolForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Toolboxes\TilesetToolForm.Designer.cs">
+      <DependentUpon>TilesetToolForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Toolboxes\UndoToolForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Toolboxes\UndoToolForm.Designer.cs">
+      <DependentUpon>UndoToolForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EditorObjects\EditorObjects.csproj">
+      <Project>{A0105C33-2306-41B6-94F0-AE4E0709E422}</Project>
+      <Name>EditorObjects</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icons\brush_collision.bmp" />
+    <Content Include="Icons\brush_large.bmp" />
+    <Content Include="Icons\brush_medium.bmp" />
+    <Content Include="Icons\brush_small.bmp" />
+    <Content Include="Icons\gray_white_bg.bmp" />
+    <Content Include="Icons\tileset_add.bmp" />
+    <Content Include="Icons\tileset_remove.bmp" />
+    <Content Include="LevelEditor.sdm" />
+    <Content Include="prototype.jar">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="zip.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\test.gif" />
+    <EmbeddedResource Include="AboutBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Brushes\BrushOpCollision.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BrushOpCollision.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Brushes\BrushOpObject.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BrushOpObject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Brushes\BrushOpTile.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BrushOpTile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Brushes\BrushOptions.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BrushOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MapObjectInspector.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MapObjectInspector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\UndoControl.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UndoControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MissingTilesetForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MissingTilesetForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OptionsForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OptionsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReplaceTilesetsForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReplaceTilesetsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResizeMapForm.resx">
+      <DependentUpon>ResizeMapForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Toolboxes\MapObjectInspectorToolForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MapObjectInspectorToolForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\leftP.bmp" />
+    <EmbeddedResource Include="Resources\downP.bmp" />
+    <EmbeddedResource Include="Resources\allP.bmp" />
+    <EmbeddedResource Include="Resources\upP.bmp" />
+    <EmbeddedResource Include="Resources\rightP.bmp" />
+    <EmbeddedResource Include="Resources\all.bmp" />
+    <EmbeddedResource Include="Resources\left.bmp" />
+    <EmbeddedResource Include="Resources\right.bmp" />
+    <EmbeddedResource Include="Resources\down.bmp" />
+    <EmbeddedResource Include="Resources\up.bmp" />
+    <EmbeddedResource Include="Toolboxes\UndoToolForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UndoToolForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Waves\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

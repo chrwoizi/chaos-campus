@@ -1,0 +1,119 @@
+Export log for C:\Dokumente und Einstellungen\Martin Wahnschaffe\Eigene Dateien\Studium\Vorlesungsunterlagen\SEP\svn\MapsBauen\Maps\hauptcampus.lvl
+Version: 0, Author: 
+05.07.2007, 13:03
+
+Using comment trigger 45 at (45,48)
+Using comment trigger 45 at (45,47)
+Using comment trigger 44 at (44,47)
+Using comment trigger 43 at (34,41)
+Using comment trigger 46 at (38,35)
+Using comment trigger 42 at (28,27)
+Using comment trigger 41 at (42,25)
+
+Tileset uses 279 tiles
+
+Objects used:
+Object at (14,7) : Static object, size 1 x 4
+Object at (19,7) : Static object, size 1 x 4
+Object at (24,6) : Static object, size 1 x 4
+Object at (28,6) : Static object, size 1 x 4
+Object at (35,6) : Exit trigger, target level: 2
+Object at (36,6) : Exit trigger, target level: 2
+Object at (37,6) : Exit trigger, target level: 2
+Object at (5,12) : Static object, size 1 x 4
+Object at (5,15) : Static object, size 3 x 4
+Object at (8,11) : Static object, size 3 x 4
+Object at (14,14) : Enemy/NPC, serial: 69, NPC_ID: 0
+Object at (28,11) : Enemy/NPC, serial: 67, NPC_ID: 0
+Object at (29,15) : Static object, size 3 x 4
+Object at (33,15) : Enemy/NPC, serial: 25, NPC_ID: 0
+Object at (35,15) : Enemy/NPC, serial: 24, NPC_ID: 0
+Object at (43,14) : Static object, size 3 x 4
+Object at (40,15) : Static object, size 3 x 4
+Object at (50,14) : Enemy/NPC, serial: 68, NPC_ID: 0
+Object at (54,15) : Item, serial: 72, Item_ID: 1
+Object at (2,20) : Static object, size 1 x 4
+Object at (6,20) : Static object, size 1 x 4
+Object at (3,23) : Static object, size 4 x 3
+Object at (7,23) : Static object, size 1 x 2
+Object at (11,20) : Static object, size 3 x 4
+Object at (12,20) : Item, serial: 70, Item_ID: 1
+Object at (8,21) : Static object, size 2 x 4
+Object at (8,21) : Static object, size 2 x 4
+Object at (8,21) : Static object, size 2 x 4
+Object at (10,21) : Static object, size 1 x 4
+Object at (13,23) : Static object, size 1 x 4
+Object at (22,21) : Enemy/NPC, serial: 21, NPC_ID: 2
+Object at (30,18) : Enemy/NPC, serial: 22, NPC_ID: 2
+Object at (25,19) : Exit trigger, target level: 7
+Object at (29,21) : Static object, size 3 x 4
+Object at (27,23) : Enemy/NPC, serial: 59, NPC_ID: 0
+Object at (34,16) : Enemy/NPC, serial: 55, NPC_ID: 0
+Object at (37,20) : Static object, size 3 x 4
+Object at (42,23) : Enemy/NPC, serial: 26, NPC_ID: 0
+Object at (0,24) : Static object, size 3 x 3
+Object at (10,24) : Static object, size 3 x 4
+Object at (15,28) : Static object, size 1 x 4
+Object at (13,31) : Static object, size 1 x 4
+Object at (14,31) : Static object, size 1 x 4
+Object at (25,27) : Static object, size 3 x 4
+Object at (28,27) : Comment trigger, using comment: 42
+Object at (36,26) : Enemy/NPC, serial: 56, NPC_ID: 0
+Object at (32,30) : Static object, size 3 x 4
+Object at (36,30) : Enemy/NPC, serial: 65, NPC_ID: 0
+Object at (42,25) : Comment trigger, using comment: 41
+Object at (40,30) : Static object, size 3 x 4
+Object at (44,31) : Enemy/NPC, serial: 57, NPC_ID: 0
+Object at (53,28) : Exit trigger, target level: 4
+Object at (51,31) : Enemy/NPC, serial: 58, NPC_ID: 0
+Object at (10,38) : Static object, size 1 x 4
+Object at (12,38) : Static object, size 3 x 4
+Object at (15,38) : Enemy/NPC, serial: 19, NPC_ID: 2
+Object at (11,39) : Static object, size 1 x 4
+Object at (12,39) : Item, serial: 71, Item_ID: 1
+Object at (20,34) : Enemy/NPC, serial: 20, NPC_ID: 2
+Object at (17,38) : Static object, size 3 x 4
+Object at (21,39) : Static object, size 3 x 4
+Object at (26,35) : Enemy/NPC, serial: 60, NPC_ID: 0
+Object at (29,35) : Static object, size 3 x 4
+Object at (25,39) : Enemy/NPC, serial: 61, NPC_ID: 0
+Object at (27,39) : Static object, size 3 x 4
+Object at (33,33) : Enemy/NPC, serial: 66, NPC_ID: 0
+Object at (38,35) : Comment trigger, using comment: 46
+Object at (32,39) : Static object, size 3 x 4
+Object at (37,39) : Static object, size 3 x 4
+Object at (42,37) : Static object, size 3 x 4
+Object at (53,37) : Static object, size 3 x 4
+Object at (49,38) : Static object, size 3 x 4
+Object at (2,46) : Static object, size 3 x 4
+Object at (7,47) : Static object, size 3 x 4
+Object at (10,47) : Static object, size 3 x 4
+Object at (17,43) : Static object, size 3 x 4
+Object at (31,42) : Enemy/NPC, serial: 18, NPC_ID: 0
+Object at (25,43) : Static object, size 3 x 4
+Object at (29,43) : Static object, size 3 x 4
+Object at (29,46) : Enemy/NPC, serial: 62, NPC_ID: 0
+Object at (34,41) : Comment trigger, using comment: 43
+Object at (39,44) : Enemy/NPC, serial: 64, NPC_ID: 0
+Object at (35,46) : Exit trigger, target level: 8
+Object at (41,43) : Static object, size 3 x 4
+Object at (43,45) : Static object, size 3 x 4
+Object at (44,47) : Comment trigger, using comment: 44
+Object at (45,47) : Comment trigger, using comment: 45
+Object at (49,44) : Static object, size 3 x 4
+Object at (4,51) : Static object, size 3 x 4
+Object at (12,51) : Static object, size 3 x 4
+Object at (8,52) : Static object, size 3 x 4
+Object at (15,52) : Static object, size 3 x 4
+Object at (17,55) : Static object, size 3 x 4
+Object at (29,52) : Static object, size 3 x 4
+Object at (36,50) : Enemy/NPC, serial: 63, NPC_ID: 0
+Object at (32,55) : Static object, size 3 x 4
+Object at (45,48) : Comment trigger, using comment: 45
+Object at (42,50) : Enemy/NPC, serial: 23, NPC_ID: 0
+Object at (40,55) : Static object, size 3 x 4
+Object at (48,52) : Static object, size 3 x 4
+Object at (20,60) : Static object, size 3 x 4
+Object at (25,60) : Static object, size 3 x 4
+Object at (29,63) : Static object, size 3 x 4
+Object at (49,56) : Static object, size 3 x 4

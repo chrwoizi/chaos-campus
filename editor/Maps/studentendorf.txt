@@ -1,0 +1,97 @@
+Export log for C:\Dokumente und Einstellungen\Martin Wahnschaffe\Eigene Dateien\Studium\Vorlesungsunterlagen\SEP\svn\MapsBauen\Maps\studentendorf.lvl
+Version: 0, Author: 
+04.07.2007, 12:04
+
+Using comment trigger 38 at (21,52)
+Using story trigger 3 at (18,42)
+Using comment trigger 10 at (43,10)
+Using story trigger 2 at (7,9)
+Using comment trigger 1 at (8,5)
+
+Tileset uses 270 tiles
+
+Objects used:
+Object at (2,7) : Item, serial: 174, Item_ID: 4
+Object at (8,5) : Comment trigger, using comment: 1
+Object at (33,7) : Enemy/NPC, serial: 178, NPC_ID: 0
+Object at (7,9) : Door trigger, target: 1, item 4 required
+Object at (7,9) : Story trigger: 2
+Object at (7,10) : Teleport, target position: 15, 38
+Object at (7,10) : Door, serial: 1
+Object at (31,9) : Teleport, target position: 29, 97
+Object at (46,9) : Item, serial: 179, Item_ID: 1
+Object at (43,10) : Comment trigger, using comment: 10
+Object at (14,28) : Static object, size 4 x 4
+Object at (18,27) : Static object, size 4 x 3
+Object at (3,33) : Static object, size 1 x 3
+Object at (15,37) : Teleport, target position: 7, 9
+Object at (25,32) : Static object, size 3 x 4
+Object at (29,35) : Static object, size 3 x 4
+Object at (24,37) : Static object, size 3 x 4
+Object at (33,33) : Enemy/NPC, serial: 175, NPC_ID: 0
+Object at (34,34) : Static object, size 3 x 4
+Object at (37,39) : Static object, size 3 x 4
+Object at (6,47) : Static object, size 3 x 3
+Object at (23,40) : Enemy/NPC, serial: 17, NPC_ID: 0
+Object at (18,42) : Story trigger: 3
+Object at (16,44) : Static object, size 3 x 4
+Object at (24,42) : Enemy/NPC, serial: 16, NPC_ID: 0
+Object at (24,47) : Item, serial: 14, Item_ID: 1
+Object at (32,40) : Static object, size 3 x 4
+Object at (13,50) : Enemy/NPC, serial: 19, NPC_ID: 0
+Object at (21,52) : Comment trigger, using comment: 38
+Object at (24,52) : Enemy/NPC, serial: 18, NPC_ID: 0
+Object at (30,52) : Static object, size 4 x 3
+Object at (29,55) : Static object, size 1 x 4
+Object at (34,52) : Static object, size 4 x 3
+Object at (38,52) : Static object, size 4 x 3
+Object at (0,60) : Static object, size 2 x 3
+Object at (2,61) : Static object, size 4 x 3
+Object at (6,62) : Static object, size 4 x 1
+Object at (15,56) : Static object, size 2 x 2
+Object at (12,58) : Enemy/NPC, serial: 20, NPC_ID: 0
+Object at (14,58) : Enemy/NPC, serial: 21, NPC_ID: 0
+Object at (10,62) : Static object, size 2 x 1
+Object at (15,62) : Static object, size 3 x 1
+Object at (18,63) : Static object, size 4 x 1
+Object at (22,63) : Static object, size 3 x 1
+Object at (32,63) : Static object, size 3 x 1
+Object at (7,67) : Static object, size 3 x 4
+Object at (8,71) : Static object, size 3 x 4
+Object at (25,64) : Static object, size 4 x 1
+Object at (29,64) : Static object, size 3 x 1
+Object at (35,64) : Static object, size 4 x 1
+Object at (39,64) : Static object, size 4 x 1
+Object at (43,64) : Static object, size 4 x 3
+Object at (5,75) : Static object, size 3 x 4
+Object at (15,72) : Enemy/NPC, serial: 15, NPC_ID: 0
+Object at (12,73) : Enemy/NPC, serial: 62, NPC_ID: 0
+Object at (8,78) : Static object, size 3 x 4
+Object at (24,75) : Enemy/NPC, serial: 91, NPC_ID: 0
+Object at (38,74) : Static object, size 3 x 3
+Object at (38,78) : Item, serial: 173, Item_ID: 1
+Object at (30,82) : Static object, size 4 x 4
+Object at (26,85) : Enemy/NPC, serial: 93, NPC_ID: 0
+Object at (32,87) : Static object, size 3 x 3
+Object at (35,87) : Static object, size 3 x 3
+Object at (6,93) : Static object, size 4 x 4
+Object at (12,91) : Enemy/NPC, serial: 95, NPC_ID: 0
+Object at (12,93) : Enemy/NPC, serial: 92, NPC_ID: 0
+Object at (14,94) : Enemy/NPC, serial: 96, NPC_ID: 0
+Object at (23,89) : Static object, size 2 x 4
+Object at (17,93) : Static object, size 3 x 3
+Object at (20,93) : Static object, size 3 x 3
+Object at (6,102) : Static object, size 4 x 3
+Object at (10,103) : Static object, size 2 x 3
+Object at (12,103) : Static object, size 1 x 4
+Object at (14,103) : Static object, size 1 x 4
+Object at (15,103) : Static object, size 4 x 3
+Object at (19,102) : Static object, size 4 x 3
+Object at (23,102) : Static object, size 4 x 3
+Object at (29,96) : Door, serial: 176
+Object at (29,96) : Teleport, target position: 31, 8
+Object at (29,97) : Door trigger, target: 176, no item required
+Object at (27,102) : Static object, size 4 x 3
+Object at (31,102) : Static object, size 4 x 3
+Object at (35,102) : Static object, size 4 x 3
+Object at (13,104) : Exit trigger, target level: 2

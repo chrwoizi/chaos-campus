@@ -1,0 +1,14 @@
+Anleitung
+
+Bei diesem Minigame muss man eine Destillieranlage zusammenpuzzlen.
+
+Am Anfang sind noch keine Bauelemente vorhanden und man kann selber entscheiden wohin man die Teile setzt.
+Zur Steuerung nutzt man die Tasten:
+2 oben
+4 links
+6 rechts
+8 unten
+1 platzieren
+
+Sobald alle Teile gesetzt wurden, kann man mit Taste '1' die Blöcke tauschen:
+Beim ersten Mal drücken markiert man den Block und sucht sich dann den Tauschpartner aus und drückt dort wieder '1'. 
