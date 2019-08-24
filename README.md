@@ -6,7 +6,7 @@ You are playing a student called Simon. An evil witch has kidnapped the universi
 
 [Download (jar)](https://woizischke.com/chaos-campus.jar)
 
-Use a J2ME emulator (e.g. [Retro2ME](https://play.google.com/store/apps/details?id=net.ovaplay.retro2me) on Android) to play this game on your smart phone or PC.
+There is an Android port of this game available on GitHub at [chrwoizi/chaos-campus-android](https://github.com/chrwoizi/chaos-campus-android). Alternatively you can run the jar file in a J2ME emulator such as [J2ME-Loader](https://play.google.com/store/apps/details?id=ru.playsoftware.j2meloader).
 
 Additional information
 ---
