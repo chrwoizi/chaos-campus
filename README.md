@@ -15,8 +15,6 @@ Additional information
 
 Website: [woizischke.com/chaoscampus](https://woizischke.com/chaoscampus/index.html)
 
-Author (amongst others): [Christian Woizischke](https://woizischke.com)
-
 Screenshots
 ---
 
