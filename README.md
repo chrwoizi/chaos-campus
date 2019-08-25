@@ -10,7 +10,7 @@ Verfügbar auf [Google Play](https://play.google.com/store/apps/details?id=com.d
 
 [Download (jar)](https://woizischke.com/chaos-campus.jar)
 
-Website: [woizischke.com/chaoscampus](https://woizischke.com/chaoscampus/index.html)
+[Website](https://woizischke.com/chaoscampus/index.html)
 
 Screenshots
 ---
