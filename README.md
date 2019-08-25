@@ -10,11 +10,6 @@ Verfügbar auf [Google Play](https://play.google.com/store/apps/details?id=com.d
 
 [Download (jar)](https://woizischke.com/chaos-campus.jar)
 
-Additional information
----
-
-[Download Presentation (PDF)](https://woizischke.com/chaos-campus.pdf)
-
 Website: [woizischke.com/chaoscampus](https://woizischke.com/chaoscampus/index.html)
 
 Screenshots
