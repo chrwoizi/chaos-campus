@@ -7,6 +7,7 @@ Auf dem Chaos Campus ist etwas tragisches passiert. Die böse Vizepräsidentin d
 Verfügbar auf [Google Play](https://play.google.com/store/apps/details?id=com.deadlinegamedev.chaoscampus) und als [jar-Datei](https://woizischke.com/chaos-campus.jar) für alte Handys aus der Generation vor den Smartphones. Die jar-Datei ist auch mit einem J2ME emulator (z.B. [J2ME-Loader](https://play.google.com/store/apps/details?id=ru.playsoftware.j2meloader) auf Android) ausführbar.
 
 [Google Play](https://play.google.com/store/apps/details?id=com.deadlinegamedev.chaoscampus)
+
 [Download (jar)](https://woizischke.com/chaos-campus.jar)
 
 Additional information
