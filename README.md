@@ -4,7 +4,7 @@ Dieses Spiel wurde von Studenten der Technischen Universität Braunschweig ([TU-
 
 Auf dem Chaos Campus ist etwas tragisches passiert. Die böse Vizepräsidentin der Universität hat den Präsidenten gekidnappt und mit ihrem Giftnebel alle Studenten in Monster verwandelt. Nur du, Simon, wurdest auf mysteriöse Weise verschont. Also raus aus den Federn und ran an dein Lieblingsbuch "Cormenius". Nicht zum Lernen. Nein nein, dafür ist keine Zeit... Aber zum Monster kloppen eignet sich das "Nachschlagewerk" bestens. Nur so kannst du deine Kommilitonen retten. Ein paar Rätsel und Bosskämpfe warten auch auf dich.
 
-Verfügbar auf [Google Play](https://play.google.com/store/apps/details?id=com.deadlinegamedev.chaoscampus) und als jar-Datei für alte Handys aus der Generation vor den Smartphones. Die jar-Datei ist auch mit einem J2ME emulator (z.B. [J2ME-Loader](https://play.google.com/store/apps/details?id=ru.playsoftware.j2meloader) auf Android) ausführbar.
+Verfügbar auf [Google Play](https://play.google.com/store/apps/details?id=com.deadlinegamedev.chaoscampus) und als [jar-Datei](https://woizischke.com/chaos-campus.jar) für alte Handys aus der Generation vor den Smartphones. Die jar-Datei ist auch mit einem J2ME emulator (z.B. [J2ME-Loader](https://play.google.com/store/apps/details?id=ru.playsoftware.j2meloader) auf Android) ausführbar.
 
 [Download (jar)](https://woizischke.com/chaos-campus.jar)
 
