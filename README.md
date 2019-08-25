@@ -1,14 +1,12 @@
 # Chaos Campus
 
-Chaos Campus was a german university project where computer science students created a J2ME mobile game for feature phones. 
+Dieses Spiel wurde von Studenten der Technischen Universität Braunschweig ([TU-BS](https://www.tu-braunschweig.de/)) und der Hochschule für bildende Künste Braunschweig ([HBK](https://www.hbk-bs.de/)) entwickelt.
 
-You are playing a student called Simon. An evil witch has kidnapped the university president and she released a poisonous substance on the university campus to convert all students to monsters. Simon must solve riddles and engage in boss fights to rescue the president and fellow students.
+Auf dem Chaos Campus ist etwas tragisches passiert. Die böse Vizepräsidentin der Universität hat den Präsidenten gekidnappt und mit ihrem Giftnebel alle Studenten in Monster verwandelt. Nur du, Simon, wurdest auf mysteriöse Weise verschont. Also raus aus den Federn und ran an dein Lieblingsbuch "Cormenius". Nicht zum Lernen. Nein nein, dafür ist keine Zeit... Aber zum Monster kloppen eignet sich das "Nachschlagewerk" bestens. Nur so kannst du deine Kommilitonen retten. Ein paar Rätsel und Bosskämpfe warten auch auf dich.
 
-The game language is german.
+Verfügbar auf [Google Play](https://play.google.com/store/apps/details?id=com.deadlinegamedev.chaoscampus) und als jar-Datei für alte Handys aus der Generation vor den Smartphones. Die jar-Datei ist auch mit einem J2ME emulator (z.B. [J2ME-Loader](https://play.google.com/store/apps/details?id=ru.playsoftware.j2meloader) auf Android) ausführbar.
 
 [Download (jar)](https://woizischke.com/chaos-campus.jar)
-
-There is an Android port of this game available on [Google Play](https://play.google.com/store/apps/details?id=com.deadlinegamedev.chaoscampus) and GitHub at [chrwoizi/chaos-campus-android](https://github.com/chrwoizi/chaos-campus-android). Alternatively you can run the jar file in a J2ME emulator such as [J2ME-Loader](https://play.google.com/store/apps/details?id=ru.playsoftware.j2meloader).
 
 Additional information
 ---
