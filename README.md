@@ -8,7 +8,7 @@ The game language is german.
 
 [Download (jar)](https://woizischke.com/chaos-campus.jar)
 
-There is an Android port of this game available on GitHub at [chrwoizi/chaos-campus-android](https://github.com/chrwoizi/chaos-campus-android). Alternatively you can run the jar file in a J2ME emulator such as [J2ME-Loader](https://play.google.com/store/apps/details?id=ru.playsoftware.j2meloader).
+There is an Android port of this game available on [Google Play](https://play.google.com/store/apps/details?id=com.deadlinegamedev.chaoscampus) and GitHub at [chrwoizi/chaos-campus-android](https://github.com/chrwoizi/chaos-campus-android). Alternatively you can run the jar file in a J2ME emulator such as [J2ME-Loader](https://play.google.com/store/apps/details?id=ru.playsoftware.j2meloader).
 
 Additional information
 ---
