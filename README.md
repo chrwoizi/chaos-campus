@@ -8,7 +8,7 @@ Verfügbar auf [Google Play](https://play.google.com/store/apps/details?id=com.d
 
 [Google Play](https://play.google.com/store/apps/details?id=com.deadlinegamedev.chaoscampus)
 
-[Download (jar)](https://woizischke.com/chaos-campus.jar)
+[Download (jar)](https://woizischke.com/chaoscampus/chaos-campus.jar)
 
 [Website](https://woizischke.com/chaoscampus/index.html)
 
